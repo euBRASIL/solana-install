@@ -1,4 +1,4 @@
-# Instalar o RUST através deste download ( https://rustup.rs ) : <br>
+# Instalar o RUST através deste download : https://rustup.rs <br>
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <br><br>
 Depois de 'instalado' o RUST rodar os comandos da Solana : <br>
