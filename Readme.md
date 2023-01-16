@@ -1,3 +1,5 @@
+![image](Solana.jpg)
+
 # Instalar o RUST através deste download : https://rustup.rs <br>
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 <br><br>
