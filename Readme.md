@@ -22,3 +22,6 @@ Ocorrência / ERROR : ausência do LINK.exe que é o Compilador necessário para
 prompt > rustup default stable-x86_64-pc-windows-gnu
 <br><br>
 Ocorrência / ERROR : ausência do GCC.exe que é o Compilador em C++ necessário para Solana, rodar este comando abaixo :
+
+Criar RPC-Solana (nó da blockchain Solana)
+https://chainstack.com
